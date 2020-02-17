@@ -1,0 +1,9 @@
+coordinates = (37.773972, -122.431297) # USA, San Francisco
+coordinates = (40.730610, -73.935242) # USA, New York
+coordinates = (49.842957, 24.031111) # Ukraine
+coordinates = (51.509865, -0.118092) # UK
+coordinates = (-34.603722, -58.381592) # Argentina
+coordinates = (43.928654, -79.528160) # Canada
+coordinates = (48.864716, 2.349014) # France, Paris
+coordinates = (40.416775, -3.703790) # Madrid
+coordinates = (59.911491, 10.757933) # Oslo
