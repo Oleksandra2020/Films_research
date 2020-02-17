@@ -1,6 +1,6 @@
 # map_generator
 
-map_generator is a Python module which deals with finding the films that were directed nearby to the given coordinates and prints it out on a map. This layer is called "Films_map". Second layer colours the given country in green and the others in blue. Also, I used csv file I generated in my last homework about IMDB database research about the most popular genre among directed films in the country and printed it out on the layer.
+map_generator is a Python module which deals with finding the films that were directed nearby to the given coordinates and prints it out on a map. This layer is called "Films_map". Second layer colours the given country in green and the others in blue. Also, I used 'result2.csv' file I generated in my last homework about IMDB database research about the most popular genre among directed films in the country and printed it out on the layer.
 
 ## Pre-installings
 
@@ -28,7 +28,11 @@ This file contains a map with two layers: the first shows at most 10 markers wit
 ## Running example
 
 >>> Please enter a year you would like to have a map for: 2012
+
+
 >>> Please enter your location (format: lat, long): 49.842957, 24.031111
+
+
 Then you will be given some messages that will show you what the program does in the moment.
 
 ![](screen5.jpg)
