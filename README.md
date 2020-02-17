@@ -11,6 +11,8 @@ pip install geocoder
 pip install reverse_geocoder
 pip install pycountry
 ```
+And download the file "locations.list" from http://www.ftpdir.hu/ftp.cs.princeton.edu/pub/cs226/moviedb-3.24/lists/
+However, you should rename it as "locations.list.txt" as in the program.
 
 ## Usage
 
