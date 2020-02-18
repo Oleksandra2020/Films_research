@@ -29,7 +29,7 @@ This file contains a map with two layers: the first shows at most 10 markers wit
 
 
 This html file includes a lot of essential tags like:
-```bash
+```
 <head> - is the tag for starting the program
 <script> - tag for referring to the running JavaScript code
 <style> - the appearance of the map for the user
