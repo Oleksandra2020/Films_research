@@ -31,11 +31,17 @@ This file contains a map with two layers: the first shows at most 10 markers wit
 This html file includes a lot of essential tags like:
 
 <head> - is the tag for starting the program
+
 <script> - tag for referring to the running JavaScript code
+
 <style> - the appearance of the map for the user
+
 <body> - prints the text on the map
+
 <link> - connects the map with some resources on the Internet
+
 <meta> - provides metadata about HTML document
+
 
 Also, each of mentioned tags with '/' in front of it represents the end of the tag
 
