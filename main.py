@@ -169,7 +169,7 @@ if __name__ == "__main__":
     file = file_search(st, f)
     print("The program is searching for the films...")
     neighs = find_neighbours(coordinates, file)
-    print("Data is collected. The program is generating the map.")
+    print("Data is collected. The program is generating the map...")
     map = folium.Map(location=[coordinates[0], coordinates[1]], zoom_start=8)
     show_map(neighs, 'result2.csv', coordinates, country, b)
     print("Please have a look at the map Map.html")
